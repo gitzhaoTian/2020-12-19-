@@ -1,0 +1,3 @@
+include ':day12_18_daohang'
+include ':app'
+rootProject.name = "My Application"
